@@ -1,7 +1,7 @@
 #!/bin/bash
 
-basedir=${1};
-outputdir=${2}";
+basedir=$1;
+outputdir=$2;
 featuredir=$(pwd);
 
 echo Launch dir: ${featuredir}
